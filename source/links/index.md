@@ -20,7 +20,7 @@ links:
     name: 红桃
     blog: 红桃的哔哩哔哩
     desc: 雨生百谷
-    color: 'F5F5F5' # 代表色
+    color: 'F8F8FF' # 代表色
     email: # 非必须
   - url: https://space.bilibili.com/487559232  #吴剑波
     avatar: https://s2.loli.net/2022/06/02/i4tJe2frzolmY5W.jpg
