@@ -15,11 +15,18 @@ links:
     desc: All at sea.
     color: '#0078e7' # 代表色
     email: # 非必须
-  - url: https://space.bilibili.com/188643463
+  - url: https://space.bilibili.com/188643463  #鲍鱼顺
     avatar: /source/images/bys.jpg
     name: demain
     blog: demain的哔哩哔哩
-    desc: 开朗活泼的少年
+    desc: 还没想好说什么呢
+    color: '#98F898' # 代表色
+    email: # 非必须
+  - url: https://space.bilibili.com/516685577  #占弘涛
+    avatar: /source/images/bys.jpg
+    name: 红桃
+    blog: 红桃的哔哩哔哩
+    desc: 还没想好说什么呢
     color: '#98F898' # 代表色
     email: # 非必须
 placeholder: 还没想好说些什么 # 默认对友链的描述
