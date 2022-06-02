@@ -6,7 +6,7 @@ avatar:
   url: https://s2.loli.net/2022/05/31/U5JQfLTbqk3Cv9P.jpg
   rounded: true
   opacity: 1
-  mickey_mouse: true
+  mickey_mouse: false
   status:
     enable: true
     emoji: 🎉
@@ -94,7 +94,6 @@ footer:
   custom_text:
 
 
-
 engine_search:
   enable: false
 
@@ -138,15 +137,14 @@ wordcloud:
   enable: true
 
 categories:
-  笔记: dimgray
   杂项: 'CCFFFF'
 tags:
   杂项: 'FFFFCC'
   Linux: '6666CC'
   C/C++: 'CCCCFF'
 
-cdn:
-  pre: https://cdn.jsdelivr.net/gh/yzikey/yzikey.github.io@latest
+#cdn:
+  #pre: https://cdn.jsdelivr.net/gh/yzikey/yzikey.github.io@latest
 
 
 pages:
