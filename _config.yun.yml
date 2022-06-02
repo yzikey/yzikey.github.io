@@ -138,10 +138,6 @@ wordcloud:
 
 categories:
   杂项: 'CCFFFF'
-tags:
-  杂项: 'FFFFCC'
-  Linux: '6666CC'
-  C/C++: 'CCCCFF'
 
 #cdn:
   #pre: https://cdn.jsdelivr.net/gh/yzikey/yzikey.github.io@latest
