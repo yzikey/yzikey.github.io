@@ -200,6 +200,9 @@ mourn:
   days:
     - 4-4
 
+pjax:
+  enable: true
+
 aplayer:
   global: true
   meting: true
