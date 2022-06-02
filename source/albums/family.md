@@ -9,6 +9,6 @@ photos:
     src: /source/images/mother.jpg
     desc: 最感恩的人！
   - caption: 姐姐
-    src: /source/images/sister.jpg
+    src: https://sm.ms/image/e4j2Bdq36xNfRlL
     desc: 一直都很照顾我的人！
 ---

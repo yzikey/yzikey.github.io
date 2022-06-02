@@ -3,7 +3,7 @@ type: albums
 albums:
   - caption: family
     url: /albums/family.html
-    cover: https://s2.loli.net/2022/06/02/T65trJkVg8ibWwm.webp
+    cover: https://sm.ms/image/T65trJkVg8ibWwm
     desc: 我想起那天夕阳下的奔跑
   - caption: 夕阳西下
     url: /albums/friend.html
