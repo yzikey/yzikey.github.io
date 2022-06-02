@@ -36,13 +36,13 @@ links:
     desc: 还没想好说什么呢
     color: '#FFFFCC' # 代表色
     email: # 非必须
-#  - url: https://space.bilibili.com/1258685457  #叶英姿
-#    avatar: https://s2.loli.net/2022/06/02/Ga3XASuLnrjqwxO.jpg
-#    name: In the
-#    blog: In the的哔哩哔哩
-#    desc: 还没想好说什么呢
-#    color: 'CCFFCC' # 代表色
-#    email: # 非必须
+  - url: https://space.bilibili.com/1258685457  #叶英姿
+    avatar: https://s2.loli.net/2022/06/02/Ga3XASuLnrjqwxO.jpg
+    name: In the
+    blog: In the的哔哩哔哩
+    desc: 还没想好说什么呢
+    color: 'CCFFCC' # 代表色
+    email: # 非必须
   - url: https://space.bilibili.com/454681109  #刘涛
     avatar: https://s2.loli.net/2022/06/02/1qHQvKuS3aBzVRI.jpg
     name: Ls忿
