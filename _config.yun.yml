@@ -212,10 +212,10 @@ aplayer:
   widget:
     enable: true
     #id: 1364247901
-    autoplay: true
+    autoplay: false
     theme: '#2980b9'
     loop: all
-    order: random
+    order: list
     preload: auto
     volume: 0.7
     mutex: true
