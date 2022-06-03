@@ -3,7 +3,6 @@ title: 友人
 date: 2020-06-02 13:14:00
 updated: 2020-06-02 13:14:00
 layout: gallery
-password: friend
 photos:
   - caption: bys
     src: 
