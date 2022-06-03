@@ -211,6 +211,7 @@ aplayer:
   # https://github.com/metowolf/MetingJS/tree/v1.2#option
   widget:
     enable: true
+    id: 1364247901
     autoplay: false
     theme: "#2980b9"
     loop: all
