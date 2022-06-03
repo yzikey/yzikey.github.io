@@ -17,15 +17,15 @@ reward:
   comment: 请不要给我打钱，我可不会还给你呦
   methods:
     - name: 支付宝
-      path: https://s2.loli.net/2022/06/03/mFx2VWtq5PeoIMS.jpg
+      path: https://s2.loli.net/2022/06/03/tCqIUTsexGL63ok.jpg
       color: '#00A3EE'
       icon: ri:alipay-line
     - name: QQ 支付
-      path: https://s2.loli.net/2022/06/03/axSnVpZ687XDfb3.png
+      path: https://s2.loli.net/2022/06/03/eKinQN4z9RqgrYy.png
       color: '#12B7F5'
       icon: ri:qq-line
     - name: 微信支付
-      path: https://s2.loli.net/2022/06/03/lSNdeRE1srcUFLz.png
+      path: https://s2.loli.net/2022/06/03/gMshOJ4fbkDGETX.png
       color: '#2DC100'
       icon: ri:wechat-pay-line
 
@@ -46,7 +46,7 @@ waline:
     - https://fastly.jsdelivr.net/gh/walinejs/emojis@latest/weibo/
     - https://fastly.jsdelivr.net/gh/walinejs/emojis@latest/qq/
   locale:
-    placeholder: 填写邮箱，可以收到回复通知哦～
+    placeholder: 填写邮箱，可以收到回复通知哦～  (建议使用QQ邮箱)
   requiredMeta: [nick]
 
 github_issues:
@@ -150,7 +150,7 @@ pages:
     color: dodgerblue
   - name: 喜欢的动漫角色
     url: /girls/
-    icon: ph:heart-bold
+    icon: ph:heart-duotone
     color: pink
   - name: 相册集
     url: /albums/
