@@ -6,7 +6,9 @@ categories:
 - 杂项
 
 theme: wave
-password: hello
+password: mima
+abstract: 这是一篇加密文章，您需要输入密码。不过这篇文章不重要，所以密码我不告诉你。不过你可以试着点进来解一解密。
+message: 请输入密码，提示：远在天边，近在眼前
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 

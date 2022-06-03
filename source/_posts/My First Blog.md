@@ -1,9 +1,9 @@
 ---
 title: My First Blog
 tags: 
-- 杂项
+- 杂谈
 categories:
-- 杂项
+- 纪念
 
 ---
 
