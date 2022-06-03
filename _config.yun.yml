@@ -162,7 +162,7 @@ pages:
 menu:
   custom:
     title: 留言板
-    path: /about/comment.html/
+    path: /about/comment/
     icon: ri:clipboard-line
   home:
     path: /
