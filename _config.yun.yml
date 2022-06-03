@@ -210,7 +210,7 @@ aplayer:
   widget:
     enable: true
     autoplay: false
-    # theme: "#2980b9"
+    theme: "#2980b9"
     loop: all
     order: list
     preload: auto
