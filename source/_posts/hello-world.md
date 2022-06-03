@@ -7,10 +7,6 @@ categories:
 
 theme: wave
 password: hello
-abstract: Here's something encrypted, password is required to continue reading.
-message: Hey, password is required here.
-wrong_pass_message: Oh, this is an invalid password. Check and try again, please.
-wrong_hash_message: Oh, these decrypted content cannot be verified, but you can still have a look.
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
