@@ -153,7 +153,7 @@ pages:
     icon: ri:women-line
     color: hotpink
   - name: 相册集
-    url: /entry/entryAlbums.html/
+    url: /albums/
     icon: ri:mail-line
     color: dimgray
 
