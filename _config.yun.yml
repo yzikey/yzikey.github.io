@@ -37,8 +37,8 @@ comment:
     - 如果您有任何关于博客内容的相关讨论，欢迎前往 <a href="https://github.com/YunYouJun/yunyoujun.github.io/discussions" target="_blank">GitHub Discussions</a> 与我交流。
 
 waline:
-  enable: false
-  serverURL: https://waline.yunyoujun.cn
+  enable: true
+  serverURL: https://waline-server-ruby.vercel.app/
   visitor: true
   comment: true
   emoji:
@@ -46,7 +46,7 @@ waline:
     - https://fastly.jsdelivr.net/gh/walinejs/emojis@latest/weibo/
     - https://fastly.jsdelivr.net/gh/walinejs/emojis@latest/qq/
   locale:
-    placeholder: 填写邮箱，可以收到回复通知哦～  (建议使用QQ邮箱)
+    placeholder: 填写邮箱，可以收到回复通知哦～
   requiredMeta: [nick]
 
 github_issues:
