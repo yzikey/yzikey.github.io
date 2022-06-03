@@ -126,7 +126,7 @@ live2d:
   debug: false
   model:
     # 推荐使用 CDN 来加载模型
-    use: https://cdn.jsdelivr.net/npm/live2d-widget-model-z16/ #@1.0.5/assets/wanko.model.json
+    use: https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko/@1.0.5/assets/wanko.model.json
   display:
     position: right
     width: 150
@@ -135,11 +135,11 @@ live2d:
     show: true
   react:
     opacity: 0.7
-  dialog:
+#  dialog:
     # 是否开启对话框
-    enable: true
+#    enable: true
     # 是否使用一言
-    hitokoto: true
+#    hitokoto: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
