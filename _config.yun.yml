@@ -151,7 +151,7 @@ pages:
   - name: 喜欢的动漫角色
     url: /girls/
     icon: ph:heart-bold
-    color: red
+    color: pink
   - name: 相册集
     url: /albums/
     icon: ph:camera-bold
