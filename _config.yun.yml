@@ -213,9 +213,9 @@ aplayer:
     enable: true
     #id: 1364247901
     autoplay: true
-    theme: "#2980b9"
+    theme: '#2980b9'
     loop: all
-    order: list
+    order: random
     preload: auto
     volume: 0.7
     mutex: true
