@@ -116,7 +116,7 @@ encrypt: # hexo-blog-encrypt
   wrong_hash_message: 文章不见了，下次再来吧！
 
 live2d:
-  enable: true
+  enable: false
   # 推荐使用 jsdelivr 的 CDN 来加载
   scriptFrom: jsdelivr
   pluginRootPath: live2dw/
