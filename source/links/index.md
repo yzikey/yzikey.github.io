@@ -45,7 +45,7 @@ links:
 #    email: # 非必须
   - url: https://space.bilibili.com/454681109  #刘涛
     avatar: https://s2.loli.net/2022/06/02/1qHQvKuS3aBzVRI.jpg
-    name: 还没想好说什么呢
+    name: 广告出租
     blog: Ls忿的哔哩哔哩
     desc: 广告出租
     color: '#20B2AA' # 代表色
