@@ -4,6 +4,10 @@ date: 2020-06-02 13:14:00
 updated: 2020-06-02 13:14:00
 layout: gallery
 password: family
+abstract: Here's something encrypted, password is required to continue reading.
+message: Hey, password is required here.
+wrong_pass_message: Oh, this is an invalid password. Check and try again, please.
+wrong_hash_message: Oh, these decrypted content cannot be verified, but you can still have a look.
 photos:
   - caption: 妈妈
     src: https://s2.loli.net/2022/06/02/3XDWeNmuEh4lvRp.jpg
