@@ -146,15 +146,15 @@ categories:
 pages:
   - name: 我的小伙伴们
     url: /links/
-    icon: ri:genderless-line
+    icon: ph:address-book
     color: dodgerblue
   - name: 喜欢的动漫角色
     url: /girls/
-    icon: ri:women-line
+    icon: zondicons:heart
     color: hotpink
   - name: 相册集
     url: /albums/
-    icon: ri:mail-line
+    icon: zondicons:camera
     color: dimgray
 
 menu:
