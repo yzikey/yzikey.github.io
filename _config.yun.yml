@@ -212,7 +212,7 @@ aplayer:
   widget:
     enable: true
     #id: 1364247901
-    autoplay: false
+    autoplay: true
     theme: "#2980b9"
     loop: all
     order: list
@@ -222,11 +222,6 @@ aplayer:
     lrcType: 0
     listFolded: false
     listMaxHeight: 340px
-    audio:
-      - name: 星宿计时
-        artist: 杉田朗/洛天依
-        url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/audio/star-timer.mp3
-        cover: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0.jpg
     meting:
       enable: true
       id: 7466748299
