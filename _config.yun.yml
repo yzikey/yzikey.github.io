@@ -150,11 +150,11 @@ pages:
     color: dodgerblue
   - name: 喜欢的动漫角色
     url: /girls/
-    icon: zondicons:heart
+    icon: ph:heart-bold
     color: hotpink
   - name: 相册集
     url: /albums/
-    icon: zondicons:camera
+    icon: ph:camera-bold
     color: dimgray
 
 menu:
