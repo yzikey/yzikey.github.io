@@ -5,7 +5,7 @@ tags:
 categories:
 - 杂项
 
-theme: surge
+theme: wave
 password: hello
 abstract: Here's something encrypted, password is required to continue reading.
 message: Hey, password is required here.
