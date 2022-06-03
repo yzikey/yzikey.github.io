@@ -126,8 +126,8 @@ live2d:
   debug: false
   model:
     # 推荐使用 CDN 来加载模型
-    use: live2d-widget-model-tsumiki
-    #use: https://cdn.jsdelivr.net/npm/live2d-widget-model-tsumiki/@1.0.5/assets/tsumiki.model.json
+    #use: live2d-widget-model-tsumiki
+    use: https://cdn.jsdelivr.net/npm/live2d-widget-model-tsumiki/@1.0.5/assets/tsumiki.model.json
   display:
     position: right
     width: 150
