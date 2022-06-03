@@ -5,9 +5,7 @@ tags:
 categories:
 - 杂项
 
-theme: surge
 password: hello
-message: Hey, password is required here.
 ---
 
 
