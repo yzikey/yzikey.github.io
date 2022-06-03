@@ -11,9 +11,9 @@ photos:
   - caption: 姐姐
     src: https://s2.loli.net/2022/06/02/e4j2Bdq36xNfRlL.jpg
     desc: 一直都很照顾我的人！
-#  - caption: 爸爸
-#    src: 
-#    desc: 
+  - caption: 爸爸
+    src: https://s2.loli.net/2022/06/03/kXvUe1K7dZltcSh.jpg
+    desc: 不善表达的人！
 #  - caption: 爷爷
 #    src: 
 #    desc: 

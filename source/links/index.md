@@ -26,14 +26,14 @@ links:
     avatar: https://s2.loli.net/2022/06/02/Ga3XASuLnrjqwxO.jpg
     name: In the
     blog: In the的哔哩哔哩
-    desc: 还没想好说什么呢
+    desc: 很多失败不是因为能力有限，而是因为没有坚持到底
     color: '#CCFFCC' # 代表色
     email: # 非必须
   - url: https://space.bilibili.com/425570385  #黄展乐
     avatar: https://s2.loli.net/2022/06/02/9j3FykfEgRp2B1Q.jpg
     name: 手机带不动奖学金
     blog: 手机带不动奖学金的哔哩哔哩
-    desc: 还没想好说什么呢
+    desc: 为了你不敢懈怠，再累也伪装起来
     color: '#FFFFCC' # 代表色
     email: # 非必须
 #  - url: https://space.bilibili.com/1258685457  #叶英姿
