@@ -116,7 +116,7 @@ encrypt: # hexo-blog-encrypt
   wrong_hash_message: 文章不见了，下次再来吧！
 
 live2d:
-  enable: false
+  enable: true
   # 推荐使用 jsdelivr 的 CDN 来加载
   scriptFrom: jsdelivr
   pluginRootPath: live2dw/
@@ -126,7 +126,8 @@ live2d:
   debug: false
   model:
     # 推荐使用 CDN 来加载模型
-    use: https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko/@1.0.5/assets/wanko.model.json
+    use: live2d-widget-model-tsumiki
+    #use: https://cdn.jsdelivr.net/npm/live2d-widget-model-tsumiki/@1.0.5/assets/tsumiki.model.json
   display:
     position: right
     width: 150
