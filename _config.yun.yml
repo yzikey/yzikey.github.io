@@ -156,6 +156,8 @@ pages:
     url: /albums/
     icon: ph:camera-bold
     color: dimgray
+    theme: wave
+    password: hello
 
 menu:
   custom:

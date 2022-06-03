@@ -1,7 +1,4 @@
 ---
-theme: wave
-password: hello
-
 type: albums
 albums:
   - caption: 酒入愁肠
