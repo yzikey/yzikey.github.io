@@ -113,7 +113,7 @@ encrypt: # hexo-blog-encrypt
   - {name: encryptAsDiary, password: passwordA}
   - {name: encryptAsTips, password: passwordB}
   wrong_pass_message: 密码错误，请再试一次
-  wrong_hash_message: 抱歉，文章已失效
+  wrong_hash_message: 文章不见了，下次再来吧！
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

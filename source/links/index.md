@@ -47,7 +47,7 @@ links:
     avatar: https://s2.loli.net/2022/06/02/1qHQvKuS3aBzVRI.jpg
     name: 还没想好说什么呢
     blog: Ls忿的哔哩哔哩
-    desc: 还没想好说什么呢
+    desc: 广告出租
     color: '#20B2AA' # 代表色
     email: # 非必须
   - url: https://space.bilibili.com/285947059  #孙钇天
