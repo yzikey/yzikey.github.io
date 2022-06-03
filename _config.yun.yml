@@ -139,8 +139,8 @@ wordcloud:
 categories:
   杂项: 'CCFFFF'
 
-#cdn:
-  #pre: https://cdn.jsdelivr.net/gh/yzikey/yzikey.github.io@latest
+cdn:
+  pre: https://cdn.jsdelivr.net/gh/yzikey/yzikey.github.io@latest
 
 
 pages:
