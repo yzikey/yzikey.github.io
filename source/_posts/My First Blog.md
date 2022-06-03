@@ -5,9 +5,6 @@ tags:
 categories:
 - 杂项
 
-theme: wave
-password: hello
-
 ---
 
 
